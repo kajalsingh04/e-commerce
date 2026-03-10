@@ -39,7 +39,7 @@ export default function MainBody() {
                                 <h2>₹{item.price}</h2>
                                 <button type="submit" className="cartbtn" onClick={()=>addToCart(item.id)}>Add to cart</button>
                             </div>
-                            <button className="buybtn">Buy now</button>
+                            <button className="buybtn">Buy now!</button>
                         </div>
                     )))}
                 </div>
