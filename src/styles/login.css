@@ -1,0 +1,73 @@
+.login{
+    background-color:#F8F8F8;
+    margin: 5px 0;
+    padding: 40px 0;
+}
+.loginCard{
+    width: 1010px;
+    background-color:#FFFFFF;
+    margin-left: 250px;
+    margin-top: 50px;
+    border-radius: 15px;
+    display: flex;
+    box-shadow: 0 0 15px rgb(202, 202, 201);
+    padding: 40px ;
+}
+.formdiv img{
+    height: 450px;
+    margin-top: 40px;
+    margin-left:0;
+}
+.formdiv{
+    background-color: #fbeee4;
+    box-shadow: 0 0 15px rgb(250, 235, 244);
+}
+.LoginForm{
+    padding: 40px 60px;
+    margin-left: 60px;
+    box-shadow: 0 0 15px rgb(250, 235, 244);
+}
+.LoginForm h2{
+    font-size: x-large;
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+.LoginForm h4{
+    font-size: medium;
+    font-weight: 500;
+    letter-spacing: 0.5px;
+    margin-top: 15px;
+}
+.LoginForm input{
+    padding: 8px 50px 8px 15px;
+    border: 0.5px solid rgb(60, 60, 60);
+    border-radius:5px;
+    margin-top: 9px;
+}
+.loginbtn1{
+    width: 250px;
+    border: 0.5px solid rgb(60, 60, 60);
+    border-radius: 30px;
+    margin-top: 30px;
+    padding: 8px 0;
+    background-color: #f676ba;
+}
+.LoginForm p{
+    margin-top: 7px;
+  margin-left: 55px;
+  font-size: medium;
+  font-weight: 600;
+}
+.LoginForm hr{
+    margin-top: 20px;
+    font-weight: 100;
+    color: #fad5e9;
+}
+.loginbtn2{
+    width: 250px;
+    border: 0.5px solid rgb(60, 60, 60);
+    border-radius: 30px;
+    margin-top: 30px;
+    padding: 8px 0;
+    background-color: #f676ba;
+}

@@ -1,0 +1,51 @@
+.managepass{
+    background-color:#F8F8F8;
+    margin: 5px 0;
+    padding: 40px 0;
+}
+.managepassCard{
+    background-color:#FFFFFF;
+    margin: 0 280px;
+    border-radius: 15px;
+    display: flex;
+    box-shadow: 0 0 15px rgb(202, 202, 201);
+    padding: 40px 0;
+}
+.signupCard img{
+    margin-top: 30px;
+    margin-left: 20px;
+    padding: 10px;
+}
+
+.forgotForm{
+    padding: 40px 50px;
+    margin-left:70px ;
+    box-shadow: 0 0 15px rgb(250, 235, 244);
+}
+.forgotForm h2{
+    font-size: x-large;
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+.forgotForm h4{
+    font-size: medium;
+    font-weight: 500;
+    letter-spacing: 0.5px;
+    margin-top: 20px;
+}
+.forgotForm input{
+    padding: 6px 50px 6px 15px;
+    border: 0.5px solid rgb(60, 60, 60);
+    border-radius:5px;
+    margin-top: 10px;
+    color: black;
+}
+.reset-btn{
+    width: 250px;
+    border: 0.5px solid rgb(60, 60, 60);
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    padding: 6px 0;
+    background-color: #f676ba;
+}
